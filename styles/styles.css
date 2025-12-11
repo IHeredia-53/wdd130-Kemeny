@@ -158,7 +158,12 @@ footer {
 
 #player1 #image {
     border: 2px solid black;
-    width: 250px;
+    width: 450px;
+}
+
+#player1 #summary {
+    border: 2px solid black;
+    width: 450px;
 }
 
 #player2 {
@@ -174,7 +179,12 @@ footer {
 
 #player2 #image {
     border: 2px solid black;
-    width: 250px;
+    width: 450px;
+}
+
+#player2 #summary {
+    border: 2px solid black;
+    width: 450px;
 }
 
 #player3 {
@@ -190,7 +200,12 @@ footer {
 
 #player3 #image {
     border: 2px solid black;
-    width: 250px;
+    width: 450px;
+}
+
+#player3 #summary {
+    border: 2px solid black;
+    width: 450px;
 }
 
 @media (max-width: 768px) {

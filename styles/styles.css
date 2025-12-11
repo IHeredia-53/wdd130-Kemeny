@@ -153,6 +153,10 @@ footer {
     width: 180px;
 }
 
+#player1 #image {
+    border: 2px solid black;
+}
+
 #player2 {
     background: white;
     border: 2px solid black;
@@ -164,6 +168,10 @@ footer {
     width: 180px;
 }
 
+#player2 #image {
+    border: 2px solid black;
+}
+
 #player3 {
     background: white;
     border: 2px solid black;
@@ -173,6 +181,10 @@ footer {
 #player3 img {
     height: 190px;
     width: 180px;
+}
+
+#player3 #image {
+    border: 2px solid black;
 }
 
 @media (max-width: 768px) {

@@ -149,9 +149,6 @@ footer {
     background: white;
     border: 2px solid black;
     margin: 10px;
-    display: flex;
-    justify-content: center;
-    text-align: center;
 }
 
 #player1 img {
@@ -168,9 +165,6 @@ footer {
     background: white;
     border: 2px solid black;
     margin: 10px;
-    display: flex;
-    justify-content: center;
-    text-align: center;
 }
 
 #player2 img {
@@ -187,9 +181,6 @@ footer {
     background: white;
     border: 2px solid black;
     margin: 10px;
-    display: flex;
-    justify-content: center;
-    text-align: center;
 }
 
 #player3 img {

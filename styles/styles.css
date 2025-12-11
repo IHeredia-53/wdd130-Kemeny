@@ -183,6 +183,8 @@ footer {
 #player2 #image {
     border: 2px solid black;
     width: 450px;
+    margin-left: 50px;
+    margin-bottom: 20px;
 }
 
 #player2 #summary {
@@ -205,6 +207,8 @@ footer {
 #player3 #image {
     border: 2px solid black;
     width: 450px;
+    margin-left: 50px;
+    margin-bottom: 20px;
 }
 
 #player3 #summary {

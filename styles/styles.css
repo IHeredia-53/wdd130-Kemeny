@@ -155,6 +155,7 @@ footer {
 
 #player1 #image {
     border: 2px solid black;
+    width: 250px;
 }
 
 #player2 {
@@ -170,6 +171,7 @@ footer {
 
 #player2 #image {
     border: 2px solid black;
+    width: 250px;
 }
 
 #player3 {
@@ -185,6 +187,7 @@ footer {
 
 #player3 #image {
     border: 2px solid black;
+    width: 250px;
 }
 
 @media (max-width: 768px) {

@@ -166,7 +166,6 @@ footer {
 #player1 #summary {
     border: 2px solid black;
     width: 450px;
-    float: right;
 }
 
 #player2 {
@@ -190,7 +189,6 @@ footer {
 #player2 #summary {
     border: 2px solid black;
     width: 450px;
-    float: right;
 }
 
 #player3 {
@@ -214,7 +212,6 @@ footer {
 #player3 #summary {
     border: 2px solid black;
     width: 450px;
-    float: right;
 }
 
 @media (max-width: 768px) {

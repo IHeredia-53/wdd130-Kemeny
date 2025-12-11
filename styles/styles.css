@@ -136,7 +136,22 @@ footer {
 }
 
 #intro {
-    background: rgb(255, 237, 237);
+    background: white;
+    border: 2px solid black;
+}
+
+#player1 {
+    background: white;
+    border: 2px solid black;
+}
+
+#player2 {
+    background: white;
+    border: 2px solid black;
+}
+
+#player3 {
+    background: white;
     border: 2px solid black;
 }
 

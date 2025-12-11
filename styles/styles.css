@@ -159,6 +159,8 @@ footer {
 #player1 #image {
     border: 2px solid black;
     width: 450px;
+    margin-left: 50px;
+    margin-bottom: 20px;
 }
 
 #player1 #summary {

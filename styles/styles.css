@@ -165,7 +165,6 @@ footer {
 #player1 img {
     height: 200px;
     width: 200px;
-    padding: 15px;
     margin-left: 20px;
 }
 
@@ -174,6 +173,7 @@ footer {
     width: 450px;
     margin-left: 150px;
     margin-bottom: 20px;
+    padding-right: 15px;
     padding-bottom: 10px;
 }
 
@@ -203,7 +203,6 @@ footer {
 #player2 img {
     height: 200px;
     width: 200px;
-    padding: 15px;
     margin-left: 20px;
 }
 
@@ -212,6 +211,8 @@ footer {
     width: 450px;
     margin-left: 150px;
     margin-bottom: 20px;
+    padding-right: 15px;
+    padding-bottom: 10px;
 }
 
 #player2 #summary {
@@ -240,7 +241,6 @@ footer {
 #player3 img {
     height: 200px;
     width: 200px;
-    padding: 10px;
     margin-left: 20px;
 }
 
@@ -249,6 +249,8 @@ footer {
     width: 450px;
     margin-left: 150px;
     margin-bottom: 20px;
+    padding-right: 15px;
+    padding-bottom: 10px;
 }
 
 #player3 #summary {

@@ -177,9 +177,9 @@ footer {
 
 #player1 #summary {
     border: 2px solid black;
-    width: 550px;
+    width: 600px;
     text-align: center;
-    height: 250px;
+    height: 300px;
     margin-left: 110px;
     margin-top: 40px;
 }
@@ -212,9 +212,9 @@ footer {
 
 #player2 #summary {
     border: 2px solid black;
-    width: 550px;
+    width: 600px;
     text-align: center;
-    height: 250px;
+    height: 300px;
     margin-left: 110px;
     margin-top: 40px;
 }
@@ -247,9 +247,9 @@ footer {
 
 #player3 #summary {
     border: 2px solid black;
-    width: 550px;
+    width: 600px;
     text-align: center;
-    height: 250px;
+    height: 300px;
     margin-left: 110px;
     margin-top: 40px;
 }

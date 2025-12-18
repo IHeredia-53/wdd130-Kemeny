@@ -184,10 +184,6 @@ footer {
     margin-top: 40px;
 }
 
-#player1 #summary p {
-    font-size: 1.45em;
-}
-
 #player2 {
     background: white;
     border: 2px solid black;
@@ -223,10 +219,6 @@ footer {
     margin-top: 40px;
 }
 
-#player2 #summary p {
-    font-size: 1.45em;
-}
-
 #player3 {
     background: white;
     border: 2px solid black;
@@ -260,10 +252,6 @@ footer {
     height: 200px;
     margin-left: 110px;
     margin-top: 40px;
-}
-
-#player3 #summary p {
-    font-size: 1.45em;
 }
 
 @media (max-width: 768px) {

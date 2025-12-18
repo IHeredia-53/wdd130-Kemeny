@@ -166,7 +166,7 @@ footer {
     height: 190px;
     width: 180px;
     padding: 15px;
-    margin-left: -20px;
+    margin-left: 20px;
 }
 
 #player1 #image {
@@ -210,7 +210,7 @@ footer {
 #player2 #image {
     border: 2px solid black;
     width: 450px;
-    margin-left: 50px;
+    margin-left: 150px;
     margin-bottom: 20px;
 }
 
@@ -247,7 +247,7 @@ footer {
 #player3 #image {
     border: 2px solid black;
     width: 450px;
-    margin-left: 50px;
+    margin-left: 150px;
     margin-bottom: 20px;
 }
 

@@ -210,6 +210,14 @@ footer {
 #player2 #summary {
     border: 2px solid black;
     width: 450px;
+    text-align: center;
+    height: 200px;
+    margin-left: 110px;
+    margin-top: 40px;
+}
+
+#player2 #summary p {
+    font-size: 1.45em;
 }
 
 #player3 {
@@ -234,6 +242,14 @@ footer {
 #player3 #summary {
     border: 2px solid black;
     width: 450px;
+    text-align: center;
+    height: 200px;
+    margin-left: 110px;
+    margin-top: 40px;
+}
+
+#player3 #summary p {
+    font-size: 1.45em;
 }
 
 @media (max-width: 768px) {

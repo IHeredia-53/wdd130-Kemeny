@@ -155,6 +155,7 @@ footer {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     text-align: center;
+    padding-left: 0px;
 }
 
 #player1 h2 {
@@ -165,6 +166,7 @@ footer {
     height: 190px;
     width: 180px;
     padding: 15px;
+    padding-left: 0px;
     margin-left: 20px;
 }
 
